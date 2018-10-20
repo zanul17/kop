@@ -63,7 +63,7 @@
       <div class="card card-login mx-auto mt-5">
         <div class="card-header">Login</div>
         <div class="card-body">
-          <form method="post" id="form_login" action="<?php echo base_url().'/index.php/welcome/login'; ?>" >
+          <form method="post" id="form_login" action="<?php echo site_url('welcome/doLogin'); ?>" >
           <div style="color:red; text-weight:bold">
             <br>
           </div>

@@ -27,4 +27,9 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('login');
 	}
+
+	public function doLogin()
+	{
+		$this->load->view('home');
+	}
 }
