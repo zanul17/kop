@@ -9,7 +9,7 @@
        <?php $this->load->view('header.php');  ?>
     </head>
     <body>
-        
+        <b> sdasdsd </b>
         <!--================Header Menu Area =================-->
         <header class="header_area">
             <div class="main_menu">
