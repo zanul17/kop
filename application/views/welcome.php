@@ -62,10 +62,10 @@
             	<div class="overlay bg-parallax" data-stellar-ratio="0.9" data-stellar-vertical-offset="0" data-background=""></div>
 				<div class="container">
 					<div class="banner_content text-center">
-						<h3>Koperasi Simpan Pinjam (KSP) <br />KARTIKA TARUMA NEGARA</h3>
-						<h5>GARUT GARUT KOTA GARUT</h5>
+						<h3 style="color :black">Koperasi Simpan Pinjam (KSP) <br />KARTIKA TARUMA NEGARA</h3>
+						<h5 style="color :black">GARUT GARUT KOTA GARUT</h5>
 						<br>
-						<a class="green_btn" href="<?php echo site_url('welcome/login'); ?>">Login  </a>
+						<a class="org_btn" href="<?php echo site_url('welcome/login'); ?>">Login  </a>
 					</div>
 				</div>
             </div>
